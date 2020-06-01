@@ -76,7 +76,7 @@ header .highlight{
 }
 
 footer{
-  height: 105px;
+  height: 112px;
   padding:20px;
   margin-top:20px;
   color:#ffffff;
@@ -86,13 +86,10 @@ footer{
 footer h2{
   float:center;
 }
-
-footer a{
-  float: left;
-  margin-left: 500px;
-  text-decoration:none;
+footer div{
+  text-align: center;
 }
 
-footer p{
-  margin-right: 500px;
+footer a{
+  text-decoration:none;
 }
